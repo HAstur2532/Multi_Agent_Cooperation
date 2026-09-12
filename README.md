@@ -1,1 +1,7 @@
-# Multi_Agent_Cooperation
+由于调用了外部API，需要调整代码中API相关的内容才能成功调用llm
+
+data/示例.scv中显示了对应的格式，将数据填入即可自动获取相关内容。
+
+ID需要填入main.py中
+
+*当然也可以直接替换代码中相关API的内容，这样可以省去pandas库的调用*
